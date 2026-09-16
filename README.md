@@ -19,11 +19,32 @@ The simulation combines 3D environment design, drone movement, flight controls, 
 * 👁️ First-person drone perspective
 * 🧪 Campus-based demonstration
 
+  
 ## 🥽 VR Campus Demonstration
 
-A key part of the project was a **VR demonstration of the virtual campus from the drone's perspective**.
+The project was demonstrated as an immersive **VR campus exploration experience using an FPV drone-view perspective**.
 
-The demonstration allowed users to experience the campus environment through an immersive FPV viewpoint, providing an interactive way to explore the simulated environment.
+Users could experience the virtual campus from the simulated drone's viewpoint, providing an interactive way to explore different campus locations and environments.
+
+### Campus Environment
+
+The virtual environment includes campus locations such as:
+
+* 🏫 Auditorium
+* 🏢 Academic/department blocks
+* 🌳 Campus surroundings
+* 🚁 FPV drone-view navigation
+
+### Implementation & Demonstration
+
+The following images show different stages of the virtual environment, implementation, and campus demonstration:
+
+![Campus View](auditorium.jpg)
+
+![Campus Environment](mech%20block.jpg)
+
+![Simulation View](main.png)
+
 
 ## 🛠️ Technologies Used
 
@@ -31,6 +52,23 @@ The demonstration allowed users to experience the campus environment through an 
 * **Blender** — 3D modelling and environment assets
 * **VR** — Immersive visualization and interaction
 * **C#** — Unity scripting and simulation logic
+
+
+## 📐 System Documentation
+
+
+### System Architecture
+
+![System Architecture](archi%20diagarm%20new.png)
+
+### Data Flow Diagram
+
+![Data Flow Diagram](DFD%20one%20in%20one%20%281%29.png)
+
+### Use Case Diagram
+
+![Use Case Diagram](use%20case%20new%20%281%29.jpg)
+
 
 ## 🧩 Project Components
 
@@ -46,11 +84,35 @@ A 3D campus environment was developed to provide a realistic setting for the dro
 
 The simulation was demonstrated in VR to provide an immersive drone-view experience and allow users to explore the virtual environment.
 
+
 ## 📸 Project Demonstration
 
-Screenshots and demonstration images from the FPV drone simulation and VR campus experience are included in this repository.
+The following screenshots provide a visual overview of the FPV drone simulation, virtual campus environment, and implementation stages.
 
-> **Note:** This repository serves as a project showcase and documentation repository. The original Unity project/source files are not currently included.
+### 🏫 Campus & Environment
+
+![Campus Environment](auditorium.jpg)
+
+![Campus Block](mech%20block.jpg)
+
+### 🚁 FPV Simulation
+
+![FPV Simulation](main.png)
+
+![Simulation Implementation](imple%20im2.jpg)
+
+### 🥽 VR / Interactive Demonstration
+
+![VR Demonstration](imple%20clg%20im%209.png)
+
+![VR Demonstration](imple%20clg%20im10.png)
+
+### ⚙️ Additional Implementation
+
+![Implementation](imple%20im3.jpg)
+
+![Implementation](imple%20im6.jpg)
+
 
 ## 🎓 Project Context
 
